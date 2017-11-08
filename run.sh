@@ -1,3 +1,3 @@
 #!/bin/bash
-chmod +x scale.py
-python scale.py
+chmod +x stress.py
+python stress.py
